@@ -2,6 +2,7 @@
 
 # dependencies
 node_modules/
+1-notes/
 
 # Expo
 .expo/
